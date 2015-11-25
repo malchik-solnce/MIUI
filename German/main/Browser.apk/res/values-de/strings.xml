@@ -173,7 +173,6 @@
   <string name="copy_to_clipboard_failure_message">Kopieren in die Zwischenablage fehlgeschlagen</string>
   <string name="copy_url">Kopiere URL</string>
   <string name="create_qr_code">QR-Code</string>
-  <string name="current_version_pad">Pad</string>
   <string name="current_version_pc">Desktop</string>
   <string name="current_version_phone">Phone</string>
   <string name="data_traffic_prompt_change">Videos ansehem mit mobiler Datenverbindung wird ihr Datenverbrauch erhöhen. Es könnten zusätzliche Kosten durch Ihren Anbieter entstehen, wenn Ihr Datenverbrauch über ihr derzeitiges Limit gerät.</string>
