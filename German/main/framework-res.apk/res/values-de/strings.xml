@@ -238,7 +238,7 @@ mit %s erstellen"</string>
   <string name="data_usage_warning_title">Warnung zum Datenverbrauch</string>
   <string name="data_usage_wifi_limit_snoozed_title">WLAN-Datenlimit überschritten</string>
   <string name="data_usage_wifi_limit_title">WLAN-Datenlimit erreicht</string>
-  <string name="date_and_time" formatted="false">%d.%m.%Y, %H:%M:%S</string>
+  <string formatted="false" name="date_and_time">%b %-e, %Y, %-l:%M:%S %p</string>
   <string name="date_picker_decrement_day_button">Tag verringern</string>
   <string name="date_picker_decrement_month_button">Monat verringern</string>
   <string name="date_picker_decrement_year_button">Jahr verringern</string>
