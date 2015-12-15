@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="hybrid_provider">The web page provided by %1$s</string>
+  <string name="no_network">"Can't connect to the network"</string>
+  <string name="webview_reload">Try again</string>
   <string name="abc_action_bar_home_description">Navigate home</string>
   <string name="abc_action_bar_up_description">Navigation hoch</string>
   <string name="action_mode_deselect_all">Nicht ausgewählt</string>
@@ -42,14 +45,14 @@
   <string name="fmt_date_long_year_month_day">d. MMMM yyyy</string>
   <string name="fmt_date_numeric_day">d</string>
   <string name="fmt_date_numeric_month">M</string>
-  <string name="fmt_date_numeric_month_day">d.M.</string>
+  <string name="fmt_date_numeric_month_day">d. M</string>
   <string name="fmt_date_numeric_year">yyyy</string>
   <string name="fmt_date_numeric_year_month">M-yyyy</string>
   <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-  <string name="fmt_date_short_month">MMM</string>
-  <string name="fmt_date_short_month_day">d. MMM.</string>
-  <string name="fmt_date_short_year_month">MMM. yyyy</string>
-  <string name="fmt_date_short_year_month_day">d. MMM. yyyy</string>
+  <string name="fmt_date_short_month">MM</string>
+  <string name="fmt_date_short_month_day">d. MM</string>
+  <string name="fmt_date_short_year_month">MM. yyyy</string>
+  <string name="fmt_date_short_year_month_day">d. MMMM yyyy</string>
   <string name="fmt_date_time">D T</string>
   <string name="fmt_date_time_timezone">D T z</string>
   <string name="fmt_date_timezone">D z</string>
