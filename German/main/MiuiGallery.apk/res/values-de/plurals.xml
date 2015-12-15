@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">Delete %1$d photos from %2$d albums?</item>
+        <item quantity="one">Delete this photo from %2$d albums?</item>
+     </plurals>
+     <plurals name="confirm_delete_video_from_many_albums">
+        <item quantity="other">Delete %1$d videos from %2$d albums?</item>
+        <item quantity="one">Delete this video from %2$d albums?</item>
+     </plurals>
     <plurals name="confirm_delete_album">
         <item quantity="other">%1$s Alben löschen (%2$s total)?</item>
         <item quantity="one">Dieses Album löschen (%2$s total)?</item>
