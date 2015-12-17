@@ -1,5 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="actor">Actor</string>
+  <string name="actor_intro">About</string>
+  <string name="alertdialog_downapp_btn_back">Back</string>
+  <string name="app_charging_wifi_mode">Charging to update app</string>
+  <string name="app_charging_wifi_mode_summary">Update app automatically when connected to WLAN and in charging</string>
+  <string name="birthday">Birthday</string>
+  <string name="hint_apk_download_format">Install \"%1$s\" application</string>
+  <string name="hometown">Hometown</string>
+  <string name="other_info">Other</string>
   <string name="download_url_waiting_no_wifi">Ausstehend, WLAN nicht verfügbar</string>
   <string name="sniff">Sniff</string>
   <string name="vp_downloading_apk_title">%1$s wird geladen</string>
