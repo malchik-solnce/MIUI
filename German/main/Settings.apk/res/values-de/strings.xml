@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>  
+  <string name="free_xiaomi_wifi_connect_summary">Tap to connect to %1$s</string>
   <string name="Accounts_settings_title">Konten</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
