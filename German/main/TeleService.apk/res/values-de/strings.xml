@@ -1,15 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>    
+  <string name="network_unconnected_message_livetalk">Network error,Try to make a regular call. It will be charged by the operator.</string>
+  <string name="network_unconnected_title">Network error</string>
   <string name="badPin">"Die alte PIN wurde falsch eingegeben. Versuch es noch einmal."</string>
   <string name="badPin2">"Der alte PIN2 wurde falsch eingegeben. Versuch es noch einmal."</string>
   <string name="badPuk2">"Der PUK2 wurde falsch eingegeben. Versuch es noch einmal."</string>
-  <string name="callFailed_incoming_cb_enabled">Partei hat alle eingehenden Anrufe gesperrt.</string>
+  <string name="callFailed_incoming_cb_enabled">Partei hat alle eingehenden Anrufe gesperrt</string>
   <string name="callUnanswered_forwarded">Call Unanswered and Forwarded</string>
   <string name="call_ind_services">Unabhängige Dienste aufrufen</string>
-  <string name="call_settings_primary_user_only">Anrufeinstellungen können nur von dem primären Benutzer geändert werden.</string>
+  <string name="call_settings_primary_user_only">Anrufeinstellungen können nur von dem primären Benutzer geändert werden</string>
   <string name="call_settings_with_label">Anruf-Einstellungen (%s)</string>
   <string name="callind">Rufen Sie Funktionseinstellungen</string>
-  <string name="can_not_call_self">"Eigene Nummer kann nicht gewählt werden."</string>
+  <string name="can_not_call_self">Eigene Nummer kann nicht gewählt werden</string>
   <string name="carrier_name">(Anbietername)</string>
   <string name="cellular_only">Handy nur</string>
   <string name="cellular_preferred">Zelluläre bevorzugt</string>
