@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>  
+  <string name="lock_settings_with_fingerprint">Lock screen &amp; password</string>
+  <string name="resolver_settings_label">Sort</string>
+  <string name="shut_down_find_device_failure_confirm">OK</string>
+  <string name="shut_down_find_device_network_failure_content">"Couldn't turn off Find device. Make sure your device is connected to the internet."</string>
+  <string name="shut_down_find_device_network_failure_title">"Can't connect to the network"</string>
+  <string name="shuting_down_find_device">Turning off Find device…</string>
+  <string name="sim_enabler_title">SIM Enablers</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
+  <string name="voice_input_output_settings_title">Voice input &amp; output settings</string>
+  <string name="voice_service_preference_section_title">Voice input services</string>
   <string name="Accounts_settings_title">Konten</string>
   <string name="about_settings">Über das Gerät</string>
   <string name="about_settings_summary">Rechtliche Hinweise, Status und Softwareversion anzeigen</string>
